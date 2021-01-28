@@ -5,9 +5,13 @@
 }
 
 /*------------------------------- HEADER ------------------------------- */
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .header {
     width: 100%;
-    height: 100px;
+    height: 170px;
     /* background: #293555; */
     /* display: table; */
     display: flex;
@@ -97,6 +101,7 @@
 }
 
 .footer p {
+    font-family: 'Montserrat', sans-serif;
     display: table-cell;
     vertical-align: middle;
 }
